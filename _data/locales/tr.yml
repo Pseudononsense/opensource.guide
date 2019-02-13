@@ -1,31 +1,31 @@
-en:
-  locale_name: English
+tr:
+  locale_name: Türkçe
   nav:
-    about: About
-    contribute: Contribute
+    about: Hakkında
+    contribute: Katkı Yap
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+    lead: Açık kaynak yazılımı aynı sizler gibi kişiler tarafından oluşturulmaktadır. Projeninizi nasıl başlatacağınızı ve büyüteceğinizi öğrenin.
     opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: İçindekiler Listesi
+    back_to_all_guides: Tüm rehberlere geri dön
+    related_guides: İlgili Rehberler
   footer:
     contribute:
-      heading: Contribute
-      description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      heading: Katkı Yap
+      description:  Bir öneride bulunmak mı istiyorsun? Bu içerik açık kaynaktır. Onu geliştirmemize yardım et.
+      button: Katkı Yap
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: Temasta kal
+      description: GitHub'ın en son açık kaynak ipuçları ve kaynaklarından ilk sen haberdar ol.
+      label: Eposta Adresi
+      button: Abone Ol
     byline:
-      # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
-      # Label for code octicon
-      code_label: code
-      # Label for love octicon
-      love_label: love
-      # Label for the contributors link
-friends_label: friends
+      # [code], [love], ve [github] yerine octiconlar (simgeler) gelecektir.
+      format: "[github] ve [friends] sayesinde [love] ile [code]"
+      # Kod yaz octiconu etiketi
+      code_label: kod yaz
+      # Aşk octiconu etiketi
+      love_label: aşk
+      # Katkıda bulunanlar bağlantısı etiketi
+      friends_label: arkadaşlar
