@@ -48,32 +48,32 @@ Net ve belgeli bir amaca sahip olmak odağınızdan şaşmamanızı ve diğerler
 
 ### Beklentilerinizi açıkça ortaya koyun
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+Kuralları yazıya dökmek oldukça can sıkıcı olabilir. Bazen diğerlerinin davranışlarını yönetmeye çalıştığınızı veya tüm eğlenceyi ortadan kaldırdığınızı düşünebilirsiniz.
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+Fakat yazılı oldukları ve adil şekilde uygulandıkları sürece iyi kurallar bakımcıların işlerini kolaylaştırırlar. Kurallar sizi istemediğiniz işleri yapmaya süreklenmekten alıkoyar.
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+Projenize denk gelen birçok kişi sizi veya içinde bulunduğunuz durumu bilmeyecektir. Eğer projeniz onların sıklıkla kullandıkları ve ihtiyaç duydukları bir konumda ise sizin bu iş için para aldığınızı varsayabilirler. Belki de geçmişte projeye çok zaman ayırmışsınızdır ama şimdi yeni bir iş veya aile bireyi ile meşgulsünüzdür.
 
-All of this is perfectly okay! Just make sure other people know about it.
+Bunların hepsi gayet doğaldır! Sadece diğerlerinin durumunuzu bilmesini sağlayın.
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+Eğer projenizin bakımını yarı zamanlı veya tamamen gönüllü olarak sürdürüyorsanız, ayırabileceğiniz zaman konusunda dürüst olun. Bu, projenin ne kadar zamana ihtiyacı olduğunu düşündüğünüz veya başkalarınız sizden ne kadar zaman harcamanızı istediğiyle aynı şey değildir.
 
-Here are a few rules that are worth writing down:
+Yazmaya değer birkaç kuralı şöyle sıralayabiliriz:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* Bir katkının nasıl incelendiği ve kabul edildiği (_Testlere mi ihtiyaçları var? Veya bir yayın temasına?_)
+* Kabul edeceğiniz katkıların türleri (_Kodunuzun sadece bir parçası için mi yardım istiyorsunuz?_)
+* Takibe devam için uygun zamanın ne olduğu (_örneğin, "Bakımcılardan 7 gün içerisinde yanıt alacaksınız. Eğer bu süre içerisinde yanıt almadıysanız, başlığa ping atabilirsiniz."_)
+* Projeye ne kadar zaman ayırdığınız (_örneğin, "Bu proje üzerinde haftada sadece 5 saat civarı çalışıyoruz."_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), ve [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) bakımcı ve katılımcılara yönelik temel kuralları olan projelerden bazılarıdır.
 
 ### İletişimi kamuya açık tutun
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+Etkileşimlerinizi de belgelemeyi unutmayın. Projenize ilişkin iletişimi mümkün olduğunca kamuya açık tutun. Eğer birisi özellik talep etmek veya destek istemek için sizinle şahsen iletişime geçerse, onları eposta listesi veya sorun izleme başlıkları gibi herkese açık bir iletişim kanalına yönlendirin.
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+Diğer bakımcılar ile buluşur veya şahsen büyük bir değişik yapma kararı alırsanız, bu görüşme ve kararları da kısa notlar şeklinde bile olsa belgeye dökerek kamu ile paylaşın.
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+Bu sayede, topluluğunuza katılan herkes projede yıllardır bulunanlar ile aynı bilgiye erişebilirler.
 
 ## Hayır demeyi öğrenin
 
