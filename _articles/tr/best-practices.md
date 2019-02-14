@@ -2,7 +2,7 @@
 lang: tr
 title: Bakımcılar için En İyi Uygulamalar
 description: Süreçleri belgelemekten topluluğunuzu güçlendirmeye kadar açık kaynak bakımcısı olarak hayatınızı kolaylaştıracak unsurlar.
-class: best-practices
+class: iyi-uygulamalar
 order: 5
 image: /assets/images/cards/best-practices.png
 related:
@@ -12,35 +12,35 @@ related:
 
 ## Bakımcı olmak ne anlama geliyor?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+Eğer açık kaynak bir projenin bakımcılığını üstleniyorsanız, kodlama yapmaktan çok sorunlara yanıt vermeye zaman harcadığınızı farketmiş olabilirsiniz.
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+Bir projenin erken safhalarında yeni fikirleri dener ve istediğiniz doğrultuda kararlar alırsınız. Projenizin tanınırlığı arttıkça, kullanıcılarınız ve katılımcılarınız ile daha sık çalışmaya başlayacaksınız.
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+Bir projenin bakımını yapmak sadece kod yazmaktan fazlasıdır. Ortaya çıkan diğer işler genelde beklenmedik olmakla beraber projenin büyümesi için kod yazmak kadar önemlidir. Süreçleri belgeye dökmekten, topluluğunuzu yetkilendirmeye kadar hayatınızı kolaylaştıracak bir kaç yöntemi sizin için derledik.
 
 ## Süreçlerinizi belgeleyin
 
-Writing things down is one of the most important things you can do as a maintainer.
+Her şeyi yazmak bir bakımcı olarak yapabileceğiniz en önemli işlerden biridir.
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+Belgeleme sadece kendi düşüncelerinizi netleştirmekle kalmaz, diğerlerinin de sizin beklenti ve ihtiyaçlarınızı fazladan soru sormadan anlamasına yardımcı olur.
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+Yazmak, amacınıza uymayan şeylere hayır demeyi kolaylaştırır. Ayrıca diğerlerinin de size katılıp yardımcı olmasını kolaylaştırır. Projenizi en beklemediğiniz kişiler bile okuyor veya kullanıyor olabilir.
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+Tam paragraf yazılar yazmasanız bile, bir kaç madde başlığı eklemek hiç yazmamaktan iyidir.
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+Belgelemenizi güncel tutmaya özen gösterin. Bunu yapma imkanınız yoksa, eski belgeleri silin veya onun eski olduğunu belirtin ki katılımcılar da güncellenmesine yardımcı olsunlar.
 
 ### Projenizin amacını yazıya dökün
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+Projenizin hedeflerini yazarak başlayabilirsiniz. Hedeflerinizi BENİOKU belgenize ekleyebilir veya ayrı bir AMAÇ belgesi oluşturabilirsiniz. Proje yol haritası gibi kolaylık sağlayacak başka belgeleriniz varsa, onları da herkesin erişimine açabilirsiniz.
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+Net ve belgeli bir amaca sahip olmak odağınızdan şaşmamanızı ve diğerlerinin katkıları sonucunda "kapsam kaymasına" uğramamanızı sağlar.
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+Örneğin, @lord bir proje amacına sahip olmanın, hangi talepler üzerinde zaman harcaması gerektiğini anlamasını sağladığını belirtiyor. Yeni bir bakımcı olarak [Slate](https://github.com/lord/slate) için ilk özellik talebini aldığı zamanlarda projesinin kapsamı dışına çıktığından dolayı pişman olduğunu dile getiriyor.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  İşi elime yüzüme bulaştırdım. Tam bir çözüm bulmak için yetince çaba sarfetmedim. Keşke yarım yamalak bir çözüm yerine "Bunun için şuanda zamanım yok ama uzun vadeli olsa iyi olur listesine ekleyeceğim" deseydim.
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
