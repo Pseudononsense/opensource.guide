@@ -60,7 +60,7 @@ Eğer projenizin bakımını yarı zamanlı veya tamamen gönüllü olarak sürd
 
 Yazmaya değer birkaç kuralı şöyle sıralayabiliriz:
 
-* Bir katkının nasıl incelendiği ve kabul edildiği (_Testlere mi ihtiyaçları var? Veya bir yayın temasına?_)
+* Bir katkının nasıl incelendiği ve kabul edildiği (_Testlere mi ihtiyaçları var? Veya bir sorun şablonuna?_)
 * Kabul edeceğiniz katkıların türleri (_Kodunuzun sadece bir parçası için mi yardım istiyorsunuz?_)
 * Takibe devam için uygun zamanın ne olduğu (_örneğin, "Bakımcılardan 7 gün içerisinde yanıt alacaksınız. Eğer bu süre içerisinde yanıt almadıysanız, başlığa ping atabilirsiniz."_)
 * Projeye ne kadar zaman ayırdığınız (_örneğin, "Bu proje üzerinde haftada sadece 5 saat civarı çalışıyoruz."_)
@@ -77,13 +77,13 @@ Bu sayede, topluluğunuza katılan herkes projede yıllardır bulunanlar ile ayn
 
 ## Hayır demeyi öğrenin
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+Yazılacakları yazdınız. Herkes bu belgeri okusa çok iyi olurdu ama gerçekte bu bilginin var olduğunu diğerlerine hatırlatmak zorundasınız.
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+Elbette herşeyin yazıya dökülmüş olması, kuralları uygulamak gerektiğinde durumun kişisel boyuta düşmesini engeller.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Hayır demek hoş olmayabilir ama _"Katkınız bu projenin kıstaslarına uymamaktadır"_ demek _"Senin katkını beğenmedim"_ demekten daha az kişiseldir.
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+Hayır demek bir bakımcının sık ihtiyaç duyacağı bir iştir: özellik istemleri kapsama uymayabilir, birisi konuşmayı alakasız yerlere çekiyor olabilir veya ihtiyaç duyulmayan işler sunuluyor olabilir.
 
 ### İletişimi iyi niyet içerisinde sürdürün
 
