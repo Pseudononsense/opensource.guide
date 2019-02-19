@@ -1,9 +1,15 @@
 contribute: katkı yapmak/katkıda bulunmak
+
 contributer: katılımcı
+
 contribution: katkı
+
 developer: geliştirici
+
 feature: özellik
+
 goal: hedef
+
 issues: sorunlar
 leverage community: topluluğu yetkilendirmek
 maintainer: bakımcı
